@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://f1-bot.github.io/"><img alt="Website" src="assets/badges/website.svg"></a>
-  <a href="https://scholar.google.com/citations?user=I54c3uQAAAAJ&amp;hl=en"><img alt="Google Scholar" src="assets/badges/scholar.svg"></a>
-  <a href="https://orcid.org/0000-0001-9418-0943"><img alt="ORCID" src="assets/badges/orcid.svg"></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57994271400"><img alt="Scopus" src="assets/badges/scopus.svg"></a>
-  <a href="https://www.webofscience.com/wos/author/record/ACU-8785-2022"><img alt="Web of Science" src="assets/badges/wos.svg"></a>
-  <a href="https://dblp.org/pid/336/0687.html"><img alt="DBLP" src="assets/badges/dblp.svg"></a>
-  <a href="https://www.semanticscholar.org/author/S.-Dolhopolov/2191831037"><img alt="Semantic Scholar" src="assets/badges/semantic.svg"></a>
-  <a href="https://www.researchgate.net/profile/Serhii-Dolhopolov"><img alt="ResearchGate" src="assets/badges/researchgate.svg"></a>
+  <a href="https://f1-bot.github.io/"><img alt="Website" src="assets/buttons/website.svg"></a>
+  <a href="mailto:dolhopolov_sy@knuba.edu.ua"><img alt="dolhopolov_sy@knuba.edu.ua" src="assets/buttons/email.svg"></a>
+  <a href="https://www.linkedin.com/in/serhii-dolhopolov-aa4099193/"><img alt="LinkedIn" src="assets/buttons/linkedin.svg"></a>
+  <a href="https://scholar.google.com/citations?user=I54c3uQAAAAJ&amp;hl=en"><img alt="Google Scholar" src="assets/buttons/scholar.svg"></a>
   <br>
-  <a href="https://www.linkedin.com/in/serhii-dolhopolov-aa4099193/"><img alt="LinkedIn" src="assets/badges/linkedin.svg"></a>
-  <a href="mailto:dolhopolov_sy@knuba.edu.ua"><img alt="Email" src="assets/badges/email.svg"></a>
+  <a href="https://orcid.org/0000-0001-9418-0943"><img alt="ORCID" src="assets/buttons/orcid.svg"></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57994271400"><img alt="Scopus" src="assets/buttons/scopus.svg"></a>
+  <a href="https://www.webofscience.com/wos/author/record/ACU-8785-2022"><img alt="Web of Science" src="assets/buttons/wos.svg"></a>
+  <a href="https://dblp.org/pid/336/0687.html"><img alt="DBLP" src="assets/buttons/dblp.svg"></a>
+  <a href="https://www.semanticscholar.org/author/S.-Dolhopolov/2191831037"><img alt="Semantic Scholar" src="assets/buttons/semantic.svg"></a>
+  <a href="https://www.researchgate.net/profile/Serhii-Dolhopolov"><img alt="ResearchGate" src="assets/buttons/researchgate.svg"></a>
 </p>
 
 I am an Assistant Lecturer and Researcher at the Department of Information Technologies of Kyiv National University of Construction and Architecture (KNUCA), Kyiv, Ukraine. I am also a PhD student in Computer Science there, advised by Prof. Tetyana Honcharenko.
@@ -189,18 +189,19 @@ All 25 papers are listed on [Google Scholar](https://scholar.google.com/citation
 ## Tools
 
 <p>
-  <img alt="Python" src="assets/badges/python.svg">
-  <img alt="PyTorch" src="assets/badges/pytorch.svg">
-  <img alt="Hugging Face" src="assets/badges/huggingface.svg">
-  <img alt="LangChain" src="assets/badges/langchain.svg">
-  <img alt="Ollama" src="assets/badges/ollama.svg">
-  <img alt="MCP" src="assets/badges/mcp.svg">
-  <img alt="FastAPI" src="assets/badges/fastapi.svg">
-  <img alt="OpenTelemetry" src="assets/badges/opentelemetry.svg">
-  <img alt="Ultralytics YOLO" src="assets/badges/yolo.svg">
-  <img alt="ROCm" src="assets/badges/rocm.svg">
-  <img alt="Linux" src="assets/badges/linux.svg">
-  <img alt="Git" src="assets/badges/git.svg">
+  <img alt="Python" src="assets/chips/python.svg">
+  <img alt="PyTorch" src="assets/chips/pytorch.svg">
+  <img alt="Hugging Face" src="assets/chips/huggingface.svg">
+  <img alt="LangChain" src="assets/chips/langchain.svg">
+  <img alt="Ollama" src="assets/chips/ollama.svg">
+  <img alt="MCP" src="assets/chips/mcp.svg">
+  <br>
+  <img alt="FastAPI" src="assets/chips/fastapi.svg">
+  <img alt="OpenTelemetry" src="assets/chips/opentelemetry.svg">
+  <img alt="Ultralytics YOLO" src="assets/chips/yolo.svg">
+  <img alt="ROCm" src="assets/chips/rocm.svg">
+  <img alt="Linux" src="assets/chips/linux.svg">
+  <img alt="Git" src="assets/chips/git.svg">
 </p>
 
 I also work with smolagents, LlamaIndex, PEFT and TRL, LoRA and QLoRA fine-tuning, vLLM, llama.cpp, SHAP, Grad-CAM and Captum.
